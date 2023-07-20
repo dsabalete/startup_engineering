@@ -16,7 +16,7 @@
   "homepage": "http://www.openshift.com/",
   "repository": {
     "type": "git",
-    "url": "https://gitub.com/openshift/origin-server"
+    "url": "https://github.com/openshift/origin-server"
   },
 
   "engines": {
